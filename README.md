@@ -16,6 +16,8 @@ Requirements
 
 Python 3.8+
 
+Given HTML templates
+
 Install dependencies:
 
 pip install flask yfinance pandas numpy prophet plotly
